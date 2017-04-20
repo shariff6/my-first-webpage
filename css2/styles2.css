@@ -1,0 +1,12 @@
+h1{
+  color: red
+}
+body{
+  text-align:center;
+  font-size: 40px
+  font-style:oblique;
+  font-weight: 200;
+  font-family: cursive;
+  line-height: normal;
+  background-color: purple
+}
